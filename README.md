@@ -79,5 +79,5 @@ This dashboard helps businesses:
  Contact
 
 For questions or suggestions, feel free to reach out. 
-Screenshots : 
+Screenshots : (https://github.com/shahariarsizan6/Pizza-Sales-Report-/blob/main/Capture.PNG)
 (https://github.com/shahariarsizan6/Pizza-Sales-Report-/blob/main/Capture1.PNG)
