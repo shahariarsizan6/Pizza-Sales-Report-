@@ -79,4 +79,4 @@ This dashboard helps businesses:
  Contact
 
 For questions or suggestions, feel free to reach out. 
-Screenshots : 
+Screenshots : Capture.PNG
